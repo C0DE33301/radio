@@ -1,6 +1,7 @@
 # radio
 My radio notes
 
+## SW
 |MHz|URLs|
 |---|---|
 |4.81|https://radiologoschazuta.com/|
